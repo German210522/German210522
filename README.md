@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Germán Juárez 👋</h1>
-<h3 align="center">Junior Fullstack Developer · Guatemala 🇬🇹</h3>
+<h3 align="center">Fullstack Developer · Guatemala 🇬🇹</h3>
 
 <p align="center">
   <a href="https://german210522.github.io/PersonalWeb2/index.html">🌐 Portfolio</a> •
