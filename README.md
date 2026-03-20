@@ -19,21 +19,17 @@
 ---
 
 ## About Me
-```typescript
-const german = {
-  role:      "Fullstack Developer & IT Infrastructure Specialist",
-  company:   "Jz.Dev — Founder",
-  location:  "Huehuetenango, Guatemala 🇬🇹",
-  education: "Systems Engineering @ UMG",
-  focus: [
-    "Custom web application development",
-    "IT infrastructure, networking & structured cabling",
-    "CCTV/IP systems & electronic security",
-    "AI automation & intelligent agents",
-  ],
-  motto: "Robust technology. Intuitive interfaces. Unbreakable security."
-};
-```
+
+> 🚀 Fullstack Developer with a passion for building products that solve real problems.
+
+- 🏢 Founder of **[Jz.Dev](https://german210522.github.io/PersonalWeb2/index.html)** — custom software & IT solutions
+- 🎓 Systems Engineering student @ **Universidad Mariano Gálvez de Guatemala**
+- 🔧 Professional experience in **IT infrastructure, networking & CCTV security systems**
+- 🤖 Building with **AI agents, automation & modern web technologies**
+- 🔐 Passionate about **web security** and production-ready code
+- 📍 Based in **Huehuetenango, Guatemala** 🇬🇹
+
+> *"Robust technology. Intuitive interfaces. Unbreakable security."*
 
 ---
 
