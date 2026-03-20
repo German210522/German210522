@@ -1,17 +1,6 @@
 <div align="center">
-```
-```
-   ██╗███████╗    ██████╗ ███████╗██╗   ██╗
-   ██║╚══███╔╝    ██╔══██╗██╔════╝██║   ██║
-   ██║  ███╔╝     ██║  ██║█████╗  ██║   ██║
-██ ██║ ███╔╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝
-╚████║███████╗    ██████╔╝███████╗ ╚████╔╝
- ╚═══╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝
-```
-```
 
-### Fullstack Developer & IT Infrastructure Specialist
-### 🇬🇹 Huehuetenango, Guatemala
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=200&section=header&text=German%20Ju%C3%A1rez&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Fullstack%20Developer%20%26%20IT%20Infrastructure%20Specialist&descAlignY=58&descSize=18&descColor=8B949E" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Jz.Dev-0A0A0A?style=for-the-badge)](https://german210522.github.io/PersonalWeb2/index.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-german--juarez--dv-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/german-juarez-dv/)
@@ -107,7 +96,7 @@ Aplicación fullstack completa con arquitectura modular y API REST profesional.
 <td width="50%">
 
 ### 🎓 [Demo Sistema Educativo](https://demo-colegio-react.vercel.app/)
-Plataforma web para gestión de establecimientos educativos. Desplegada en Vercel.
+Plataforma web para gestión de establecimientos educativos desplegada en Vercel.
 
 `React` `JavaScript` `Vercel`
 
@@ -162,13 +151,13 @@ Sistema de gestión y directorio de empleados empresarial.
 
 ¿Tienes un proyecto en mente o una oportunidad para colaborar?
 
-[![Agendar llamada](https://img.shields.io/badge/💬_WhatsApp-Contáctame-25D366?style=for-the-badge)](https://wa.me/+50243072490)
 [![Ver Portfolio](https://img.shields.io/badge/🌐_Ver_Portfolio-Jz.Dev-0A0A0A?style=for-the-badge)](https://german210522.github.io/PersonalWeb2/index.html)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Contáctame-25D366?style=for-the-badge)](https://wa.me/+50243072490)
 
 ---
 
 *"Tecnología robusta, interfaces intuitivas, seguridad inquebrantable."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=German210522.German210522)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
