@@ -1,101 +1,174 @@
-<h1 align="center">Hola, soy Germán Juárez 👋</h1>
-<h3 align="center">Fullstack Developer · Guatemala 🇬🇹</h3>
+<div align="center">
+```
+```
+   ██╗███████╗    ██████╗ ███████╗██╗   ██╗
+   ██║╚══███╔╝    ██╔══██╗██╔════╝██║   ██║
+   ██║  ███╔╝     ██║  ██║█████╗  ██║   ██║
+██ ██║ ███╔╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝
+╚████║███████╗    ██████╔╝███████╗ ╚████╔╝
+ ╚═══╝╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝
+```
+```
 
-<p align="center">
-  <a href="https://german210522.github.io/PersonalWeb2/index.html">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/german-juarez-dv/">💼 LinkedIn</a> •
-  <a href="mailto:juarezsilvety@gmail.com">📧 Email</a>
-</p>
+### Fullstack Developer & IT Infrastructure Specialist
+### 🇬🇹 Huehuetenango, Guatemala
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Jz.Dev-0A0A0A?style=for-the-badge)](https://german210522.github.io/PersonalWeb2/index.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-german--juarez--dv-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/german-juarez-dv/)
+[![Email](https://img.shields.io/badge/Gmail-juarezsilvety@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juarezsilvety@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+50243072490)
+
+</div>
 
 ---
 
-## 👨‍💻 Sobre mí
-
-- 🎓 Estudiante de **Ingeniería en Sistemas** — Universidad Mariano Gálvez de Guatemala
-- 💼 Experiencia profesional en infraestructura IT como **Auxiliar de Informática**
-- 🔧 Desarrollo fullstack con enfoque en **React, Next.js, NestJS y TypeScript**
-- 🤖 Apasionado por **IA, automatización y agentes inteligentes**
-- 🔐 Interesado en **seguridad web** y buenas prácticas en producción
-- 📍 Huehuetenango, Guatemala
+## ⚡ Sobre mí
+```typescript
+const german = {
+  rol:        "Fullstack Developer & IT Infrastructure Specialist",
+  empresa:    "Jz.Dev — fundador",
+  ubicacion:  "Huehuetenango, Guatemala 🇬🇹",
+  educacion:  "Ingeniería en Sistemas @ UMG",
+  experiencia: [
+    "Desarrollo de aplicaciones web a medida",
+    "Infraestructura TI, redes y cableado estructurado",
+    "Sistemas CCTV/IP y seguridad electrónica",
+    "Automatización con IA y agentes inteligentes",
+  ],
+  filosofia: "Tecnología robusta, interfaces intuitivas, seguridad inquebrantable."
+};
+```
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
+<div align="center">
+
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Herramientas**
+**Bases de Datos**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Infraestructura & Redes**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🔧 [TechCorp Support Simulator](https://github.com/German210522/coding-challenge-support-dev)
-Resolución de 4 bugs críticos en un sistema de soporte en producción:
-- 🔴 Vulnerabilidad **IDOR** (fuga de datos entre empresas) → fix con filtro `companyId` en Prisma
-- ⚛️ Mutación de estado en React → fix con spread operator
-- ⏳ Promise infinita bloqueando tickets Urgentes → fix con `resolve()`
-- 📱 Botón inaccesible en móvil → fix con padding en contenedor
+Resolución de 4 bugs críticos en sistema de soporte en producción real.
+- 🔴 Vulnerabilidad **IDOR** — fuga de datos entre empresas
+- ⚛️ Mutación de estado en React
+- ⏳ Promise infinita en tickets Urgentes
+- 📱 Fix de UI en dispositivos móviles
 
-`Next.js · TypeScript · Prisma · SQLite · Tailwind`
+`Next.js` `TypeScript` `Prisma` `Tailwind`
 
----
+</td>
+<td width="50%">
 
 ### 🏗️ [Full Stack App — NestJS + React](https://github.com/German210522/-Full-Stack-completa-NestJS-React-Backend)
-Aplicación fullstack completa con backend en NestJS y frontend en React.
+Aplicación fullstack completa con arquitectura modular y API REST profesional.
 
-`NestJS · React · TypeScript · REST API`
+`NestJS` `React` `TypeScript` `REST API`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🔌 [API REST Profesional con NestJS](https://github.com/German210522/API-REST-Profesional-con-NestJS)
-API REST con arquitectura modular, manejo de errores y buenas prácticas.
+### 🎓 [Demo Sistema Educativo](https://demo-colegio-react.vercel.app/)
+Plataforma web para gestión de establecimientos educativos. Desplegada en Vercel.
 
-`NestJS · TypeScript · Node.js`
+`React` `JavaScript` `Vercel`
 
----
+</td>
+<td width="50%">
 
-### 🏫 [Demo Sistema Colegio](https://github.com/German210522/demo-colegio-react)
-Demo de sistema de gestión académica desarrollado con React.
+### 🍽️ [Sistema de Reservas — Tokio](https://german210522.github.io/restaurante-app-tokio/)
+App web dinámica para gestión de reservas de restaurante.
 
-`React · JavaScript`
+`JavaScript` `HTML5` `CSS3`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 🏦 [Demo Sistema Cooperativa](https://github.com/German210522/demo-cooperativa)
-Demo de sistema de gestión para cooperativa financiera.
+### 🚗 [Plataforma de Transporte](https://german210522.github.io/transporte-demo/)
+Sistema de reservas para servicios de transporte.
 
-`JavaScript`
+`JavaScript` `HTML5` `CSS3`
+
+</td>
+<td width="50%">
+
+### 👥 [Directorio RRHH](https://german210522.github.io/Directorio-de-Empleados/)
+Sistema de gestión y directorio de empleados empresarial.
+
+`JavaScript` `HTML5` `CSS3`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=German210522&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=German210522&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=German210522&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=German210522&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=German210522&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
 
 ---
 
-<p align="center">
-  <i>Siempre aprendiendo, siempre construyendo. 🚀</i>
-</p>
+## 🤝 ¿Hablamos?
+
+<div align="center">
+
+¿Tienes un proyecto en mente o una oportunidad para colaborar?
+
+[![Agendar llamada](https://img.shields.io/badge/💬_WhatsApp-Contáctame-25D366?style=for-the-badge)](https://wa.me/+50243072490)
+[![Ver Portfolio](https://img.shields.io/badge/🌐_Ver_Portfolio-Jz.Dev-0A0A0A?style=for-the-badge)](https://german210522.github.io/PersonalWeb2/index.html)
+
+---
+
+*"Tecnología robusta, interfaces intuitivas, seguridad inquebrantable."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=German210522.German210522)
+
+</div>
